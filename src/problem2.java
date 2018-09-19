@@ -5,7 +5,7 @@ public class problem2 {
 
 
     public static void main(String[] args) {
-        JTextArea table = new JTextArea(25 ,26);
+        JTextArea table = new JTextArea(15 ,20);
         Font font = new Font("monospaced", Font.PLAIN ,10);
         table.setFont(font);
 
